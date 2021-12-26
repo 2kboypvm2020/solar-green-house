@@ -85,7 +85,7 @@ function draw()
   
   //Calculate Wattage
   panel1_voltage=round(observed1*0.2);
-  panel2_voltage=round(observed2*0.2;)
+  panel2_voltage=round(observed2*0.2);
 
   
   
